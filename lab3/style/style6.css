@@ -1,0 +1,19 @@
+.flex__counteiner{
+    display: flex;
+    max-width: 1200px;
+    gap: 10px;
+}
+.box{
+    flex-basis: 33%;
+    min-height: 300px;
+}
+.sectionA {
+    background-color: red;
+
+}
+.sectionB {
+    background-color: green;
+}
+.sectionC {
+    background-color: orange;
+}
